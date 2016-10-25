@@ -10,7 +10,7 @@ setup(
     author='Eric Ressler',
     author_email='eric@ericressler.com',
     url='http://eressler.github.io/django-advanced-redirects/',
-    download_url="https://github.com/eressler/django-advanced-redirects/tarball/{0}".format(VERSION),
+    download_url="https://github.com/noox/django-advanced-redirects/tarball/{0}".format(VERSION),
     keywords=['django', 'redirects', 'seo'],
     classifiers=[],
     install_requires=[
