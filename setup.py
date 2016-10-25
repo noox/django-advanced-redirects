@@ -9,7 +9,6 @@ setup(
     description='Advanced redirect management for Django applications.',
     author='Eric Ressler',
     author_email='eric@ericressler.com',
-    url='http://eressler.github.io/django-advanced-redirects/',
     download_url="https://github.com/noox/django-advanced-redirects/tarball/{0}".format(VERSION),
     keywords=['django', 'redirects', 'seo'],
     classifiers=[],
