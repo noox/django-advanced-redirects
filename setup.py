@@ -14,6 +14,6 @@ setup(
     keywords=['django', 'redirects', 'seo'],
     classifiers=[],
     install_requires=[
-        'django>=1.7.4'
+        'django>=1.7'
     ]
 )
